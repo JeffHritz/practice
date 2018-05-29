@@ -1,0 +1,5 @@
+- Django framework
+- Object relational mapping (ORM)
+- class decorators
+- callback functions
+- generator functions
